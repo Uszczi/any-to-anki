@@ -1,2 +1,2 @@
-<h1 align="center">book-to-anki</h1>
+<h1 align="center">any-to-anki</h1>
 
